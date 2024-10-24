@@ -1,4 +1,4 @@
-# Classifying the script of *Finding Dory* using supervised ensemble methods
+# Predicting *Finding Dory* characters from film dialogue using supervised ensemble classification methods
 
 Using the script of Finding Dory, can machine learning ensemble classification methods (Bagging, Random Forest, Gradient Boosting, ADA Boosting, and XG Boosting) accurately predict what character said which line?
 
