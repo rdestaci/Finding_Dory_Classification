@@ -13,6 +13,7 @@ In this project, I aim to examine how well ensemble classification methods perfo
 The stimuli used in this analysis are lines of dialogue from the script of Finding Dory obtained from [Kaggle](https://www.kaggle.com/datasets/ashtrindade/finding-dory-movie-script). The dataset contains two variables:
 
 name (str): The name of the character associated with the line.
+
 line (str): The dialogue delivered by that character.
 
 ## Results and Evaluation
