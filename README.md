@@ -2,7 +2,7 @@
 
 Using the script of Finding Dory, can machine learning ensemble classification methods (Bagging, Random Forest, Gradient Boosting, ADA Boosting, and XG Boosting) accurately predict what character said which line?
 
-In this project, I aim to examine how well ensemble classification methods perform on tasks that rely solely on text as data. Here, lines of the Finding Dory script are vectorized and treated as independent variables in the models. The processed text is then used predict the dependent variable: the corresponding character that delivered that line.
+In this project, I aim to examine how well ensemble classification methods perform on tasks that rely solely on text as data. Here, lines of the Finding Dory script are vectorized and treated as independent variables in the models, then used predict the dependent variable: the corresponding character that delivered that line.
 
 ## Python Packages Used
 
